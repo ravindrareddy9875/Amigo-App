@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../Programming"
+		},
+		{
+			"path": "../../react"
+		},
+		{
+			"path": "../../server"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../server1"
+		},
+		{
+			"path": "../../socket"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Programming"
+	}
+}
